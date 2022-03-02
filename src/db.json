@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "New ES6 upgrade available",
+        "feed": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto."
+    },
+    {
+        "id": 2,
+        "title": "The importance of REACT in the development",
+        "feed": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident."
+    },
+    {
+        "id": 3,
+        "title": "REACT developers going on strike",
+        "feed": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur."
+    },
+    {
+        "id": 4,
+        "title": "Saan ako makakakuha?",
+        "feed": "Det er en kendsgerning, at man bliver distraheret af læsbart indhold pa en side, når man betragter dens layout."
+    },
+    {
+        "id": 5,
+        "title": "Learning React 17 new features",
+        "feed": "En søgning på Lorem Ipsum afslører mange websider, som stadig er pa udviklingsstadiet. Der har været et utal af variationer, som er opstået enten"
+    },
+    {
+        "id": 6,
+        "title": "Ano ang Lorem Ipsum",
+        "feed": "Salungat sa kaalaman ng marami, ang Lorem Ipsum ay hindi puro walang kwentang salita lang. Umuugat ito sa klasikong literatura na Latin galing 45 BC, Pinpahiwatig na higit 2000 na ang taong gulang nito."
+    },
+    {
+        "id": 7,
+        "title": "Ang regular na talata ng Lorem Ipsum, ginagamit simula pa noong 1500s",
+        "feed": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    },
+    {
+        "id": 8,
+        "title": "1914 pagsasalin ni H. Rackham",
+        "feed": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth."
+    },
+    {
+        "id": 9,
+        "title": "Seksyon 1.10.33 ng - De Finibus Bonorum et Malorum",
+        "feed": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+    },
+    {
+        "id": 10,
+        "title": "1914 pagsasalin ni H. Rackham",
+        "feed": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue."
+    }
+]
