@@ -7,6 +7,7 @@ class NewsListItem extends Component {
 
     render() {
         const { item } = this.props;
+        console.log(item);
         return (
             <div className='news-item'>
                 <h3>{item.title}</h3>
