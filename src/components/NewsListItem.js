@@ -7,9 +7,9 @@ class NewsListItem extends Component {
 
     render() {
         const { item } = this.props;
-        console.log(item);
+        //console.log(item.title);
         return (
-            <div className='news-item'>
+            <div className='news-item alert'>
                 <h3>{item.title}</h3>
                 <div>{item.feed}</div>
             </div>

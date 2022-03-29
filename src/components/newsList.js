@@ -1,25 +1,19 @@
-import React, { Component } from 'react';
+import React from 'react';
 import NewsListItem from './NewsListItem';
 
-class NewsList extends Component {
+const NewsList = (props) => {
 
-    constructor(props) {
-        super(props);
-    }
+    const newsListItems = props.news.map((item) => (
+        <NewsListItem item={item} key={item.id} />
+    ));
 
-    newsListItems = this.props.news.map((item) => (
-        <NewsListItem item={item} key={item.id} name="Amar" age="28" />
-    ))
+    //console.log("props.news");
 
-    render() {
-
-        return (
-            <React.Fragment>
-                {this.newsListItems}
-            </React.Fragment>
-        )
-
-    }
+    return (
+        <React.Fragment>
+            {newsListItems}
+        </React.Fragment>
+    )
 }
 
 export default NewsList;

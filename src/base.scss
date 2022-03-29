@@ -1,0 +1,32 @@
+@import url("assets/css/fonts.css");
+
+$font-stack: "Roboto", sans-serif;
+$primary-color: #333;
+$info-bg: #d0ecfc;
+$info-color: #0081cc;
+$danger-bg: #fdd5d5;
+$danger-color: #950000;
+$warning-bg: #f5efe0;
+$warning-color: #935100;
+$success-bg: #e2f8e2;
+$success-color: #015000;
+
+@mixin alert($bgcolor: #f7f7f7, $color: #333) {
+  background: $bgcolor;
+  color: $color;
+  box-shadow: 0 0 1px rgba($bgcolor, 0.25);
+  padding: 5px 10px;
+}
+
+body {
+  margin: 0;
+  font: 100% $font-stack;
+  color: $primary-color;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
