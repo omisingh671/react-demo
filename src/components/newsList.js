@@ -11,7 +11,9 @@ const NewsList = (props) => {
 
     return (
         <React.Fragment>
+            {props.children}
             {newsListItems}
+            {props.children}
         </React.Fragment>
     )
 }

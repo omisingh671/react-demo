@@ -37,6 +37,9 @@
   padding-left: 15px;
   padding-right: 15px;
 }
+.flex-dir-column {
+  flex-direction: column;
+}
 
 article[role="main"] {
   width: math.div(790px, 1200px) * 100%;
@@ -91,9 +94,13 @@ aside[role="complementary"] {
   margin-top: 15px;
   background-color: #282c34;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  width: 100%;
   justify-content: center;
   color: white;
   padding: 15px;
+  position: fixed;
+  bottom: 0;
+}
+.app-footer footer div p {
+  margin: 5px 0px;
 }
