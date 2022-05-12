@@ -1,16 +1,16 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 
-const Home = (props) => {
+const Post = () => {
 
     let params = useParams();
     console.log(params);
-    console.log(props);
+
     return (
-        <div className="Home">
-            <p>Home</p>
+        <div className="Post">
+            <h2>Post: {params.postId}</h2>
         </div>
     );
 }
 
-export default Home;
+export default Post;
